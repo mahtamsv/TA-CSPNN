@@ -1,5 +1,5 @@
 """
- TA_CPNN implementations 
+Temporally Adaptive Common Spatial Patterns with Deep Convolutional Neural Networks (TA-CSPNN)
 
 Note1: 'image_data_format' should be 'channels_first'
 Note2: We tested this using Tensorflow 1.12.0
